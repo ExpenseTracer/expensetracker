@@ -1,1 +1,2 @@
 # expensetracker
+This app allows the users to track the expenses. This makes it easy to prioritize your spending and plan ahead. For people new to budgeting overall, it’s a good first step in learning how and where you spend money. Users are only supposed to spend the amount allocated to each envelope, and if they go beyond their budget the envelope will show red to indicate that they overspent. Amount spent by a group of people at home or at some trip. Person can have a clear status of the money he owe to someone and howmuch others owe him!.
