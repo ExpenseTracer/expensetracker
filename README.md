@@ -26,59 +26,60 @@ Epics-
 
 Invision link
 
-Epic: Login/Register 
-oUser Registration – As a user, I would like to have signup option
-Option to create a new account
-Allow user to sign up with google
-Allow user to sign up with facebook
-Allow user to sign up using phone number
-Option to create a new account
+Epic: Login/Register 
+->User Registration – As a user, I would like to have signup option
+*Option to create a new account
+*Allow user to sign up with google
+*Allow user to sign up with facebook
+*Allow user to sign up using phone number
+*Option to create a new account
  
-oUser login- As a user, I would like to have sign in option
+->User login- As a user, I would like to have sign in option
                                   Create a link “add trip expenses"
                        Create a link "add Group/Family expenses"
                        Create a link "add personal expenses"
                        Create a link "sign in" under signup 
-Add submit button at bottom
-Update sql query after the addition of new expenses
+*Add submit button at bottom
+*Update sql query after the addition of new expenses
 
-oForget password - As a user, I would like to have forgot password option
-Include a text field in the new page to enter email/user id
-Send verification email to entered email address
-Allow user to enter new password via email link
-Include a click able link below the password input text field
-Add a submit button
-Update password in database
-Implement triggers on password updates
-Redirect the user to login page
+->Forget password - As a user, I would like to have forgot password option
+*Include a text field in the new page to enter email/user id
+*Send verification email to entered email address
+*Allow user to enter new password via email link
+*Include a click able link below the password input text field
+*Add a submit button
+*Update password in database
+*Implement triggers on password updates
+*Redirect the user to login page
 
-oSign up support - As a user, I would like to have skip sign up option
-Create a check box for "Agree terms and conditions"
-Create a check box for "I'm not a Robot option"
-Create a "submit" button
-redirect to new page
-Epic: Add Group
-oTrip Expense Tracking – As a user, I would like to add “Trip Expense Tracking Button”
-Add “Category Button”
-Allow user to enter the amount 
-Allow user to add the person who paid for that expense
-Add a button for the conversion of currency from our country to other country
-Allow user to add the date of money spent
-Allow user to add the Description of money spent
-Allow user to select the of expense
-Allow user to enter the amount 
-Allow User to Select type of Category 
-Allow user to add the no of persons involved
-Allow user to add budget
-Create a button to split the money to all the people who are part of the expense equally
+->Sign up support - As a user, I would like to have skip sign up option
+*Create a check box for "Agree terms and conditions"
+*Create a check box for "I'm not a Robot option"
+*Create a "submit" button
+*redirect to new page
 
-oPersonal Expense Tracking – As a user, I would like to add “Personal Tracking Button”
-Add Category Button
-Allow User to Select type of Category 
-Allow user to add the date of money spent 
-Allow user to enter the amount 
-Allow user to select the of expense
-Allow user to add the Description of money spent
+Epic: Add Group
+->Trip Expense Tracking – As a user, I would like to add “Trip Expense Tracking Button”
+*Add “Category Button”
+*Allow user to enter the amount 
+*Allow user to add the person who paid for that expense
+*Add a button for the conversion of currency from our country to other country
+*Allow user to add the date of money spent
+*Allow user to add the Description of money spent
+*Allow user to select the of expense
+*Allow user to enter the amount 
+*Allow User to Select type of Category 
+*Allow user to add the no of persons involved
+*Allow user to add budget
+*Create a button to split the money to all the people who are part of the expense equally.
+
+->Personal Expense Tracking – As a user, I would like to add “Personal Tracking Button”
+*Add Category Button
+*Allow User to Select type of Category 
+*Allow user to add the date of money spent 
+*Allow user to enter the amount 
+*Allow user to select the of expense
+*Allow user to add the Description of money spent.
 
 oGroup Expense Tracking – As a user, I would like to add “Group Tracking Button”
 Add Category Button
@@ -242,34 +243,34 @@ oAs a user, i would like to add contact support
 allow user to "contact through Toll free number"
 allow user to "contact through mail"
 
-Epic: Statisics
+Epic: Statisics
 User Stories:
-o As a user, i would like to add graph for every month expenses
-allow user to add all the data into csv form
-add a button to monthly expenses in graph
-Redirected to new page
-make a graph with x axis as the total months and y-axis as the total monthly spending
-preprocess the data and add tha total income of the month
+-> As a user, i would like to add graph for every month expenses
+*allow user to add all the data into csv form
+*add a button to monthly expenses in graph
+*Redirected to new page
+*make a graph with x axis as the total months and y-axis as the total monthly spending
+*preprocess the data and add tha total income of the month
 
-oAs a user, i would like to monthly report
-Redirected to new page
-allow user to view least spent week
-ask user permission to set every month report or not
-allow user to view expense for every month
-allow user to view the highest spent week
-oAs a user, i would like to yearly report
-Redirected to new page
-ask user permission to set every month report or not
-allow user to view expense for every month
-allow user to view least month
-allow user to view the highest spent month
-oAs a user, i would like to view catogery report
-use sql queries
-allow user to view expense for every catogery
-allow user to view the highest spent catogery in every month of a year
-ask user permission to set every month report or not
-allow user to view least spent catogery
-allow user to view highest paid amounts at single time
+->As a user, i would like to monthly report
+*Redirected to new page
+*allow user to view least spent week
+*ask user permission to set every month report or not
+*allow user to view expense for every month
+*allow user to view the highest spent week
+->As a user, i would like to yearly report
+*Redirected to new page
+*ask user permission to set every month report or not
+*allow user to view expense for every month
+*allow user to view least month
+*allow user to view the highest spent month
+->As a user, i would like to view catogery report
+*use sql queries
+*allow user to view expense for every catogery
+*allow user to view the highest spent catogery in every month of a year
+*ask user permission to set every month report or not
+*allow user to view least spent catogery
+*allow user to view highest paid amounts at single time
 
 
 
