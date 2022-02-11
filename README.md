@@ -6,20 +6,18 @@ Expense Tracker Application
 
 About the project
 This app allows the users to track the expenses. This makes it easy to prioritize your spending and plan ahead. For people new to budgeting overall, it’s a good first step in learning how and where you spend money. Users are only supposed to spend the amount allocated to each envelope, and if they go beyond their budget the envelope will show red to indicate that they overspent. Amount spent by a group of people at home or at some trip. Person can have a clear status of the money he owe to someone and how much others owe him.
-Stake holders
-Customers
-Employees 
-Sponsors
+Stake holders:
+->Customers.
+->Employees. 
+->Sponsors.
 
-Modules
+Modules:
 (read/Operaons/Report)  
 ●Keep a close track of credit card dues - no more surprises at the end of the billing cycle!  
 ●SPLIT expenses with friends - The simplest bill split experience!  
-●Find ATMs with Cash near you in real-me  
-●Check BANK BALANCES  
 ●Take control of your MONEY and SAVE more - Answer the key quesons of 'What', 'How Much' & 'Where' of your spends 
 ●All expenses at a GLANCE - Banks Accounts, Credit Cards, Digital Wallets, Sodexo etc.  
-●EXPORT your data and generate expense reports (in PDF & CSV format)  
+●EXPORT your data and generate expense reports (in PDF & CSV format) .
 
 
 Epics-
@@ -27,50 +25,50 @@ Epics-
 Invision link
 
 Epic: Login/Register 
-->User Registration – As a user, I would like to have signup option
-*Option to create a new account
-*Allow user to sign up with google
-*Allow user to sign up with facebook
-*Allow user to sign up using phone number
-*Option to create a new account
+->User Registration – As a user, I would like to have signup option.
+*Option to create a new account.
+*Allow user to sign up with google.
+*Allow user to sign up with facebook.
+*Allow user to sign up using phone number.
+*Option to create a new account.
  
 ->User login- As a user, I would like to have sign in option
-                                  Create a link “add trip expenses"
-                       Create a link "add Group/Family expenses"
-                       Create a link "add personal expenses"
-                       Create a link "sign in" under signup 
-*Add submit button at bottom
-*Update sql query after the addition of new expenses
+                       Create a link “add trip expenses".
+                       Create a link "add Group/Family expenses".
+                       Create a link "add personal expenses".
+                       Create a link "sign in" under signup .
+*Add submit button at bottom.
+*Update sql query after the addition of new expenses.
 
-->Forget password - As a user, I would like to have forgot password option
-*Include a text field in the new page to enter email/user id
-*Send verification email to entered email address
-*Allow user to enter new password via email link
-*Include a click able link below the password input text field
-*Add a submit button
-*Update password in database
-*Implement triggers on password updates
-*Redirect the user to login page
+->Forget password - As a user, I would like to have forgot password option.
+*Include a text field in the new page to enter email/user id.
+*Send verification email to entered email address.
+*Allow user to enter new password via email link.
+*Include a click able link below the password input text field.
+*Add a submit button.
+*Update password in database.
+*Implement triggers on password updates.
+*Redirect the user to login page.
 
-->Sign up support - As a user, I would like to have skip sign up option
-*Create a check box for "Agree terms and conditions"
-*Create a check box for "I'm not a Robot option"
-*Create a "submit" button
-*redirect to new page
+->Sign up support - As a user, I would like to have skip sign up option.
+*Create a check box for "Agree terms and conditions".
+*Create a check box for "I'm not a Robot option".
+*Create a "submit" button.
+*redirect to new page.
 
 Epic: Add Group
-->Trip Expense Tracking – As a user, I would like to add “Trip Expense Tracking Button”
-*Add “Category Button”
-*Allow user to enter the amount 
-*Allow user to add the person who paid for that expense
-*Add a button for the conversion of currency from our country to other country
-*Allow user to add the date of money spent
-*Allow user to add the Description of money spent
-*Allow user to select the of expense
-*Allow user to enter the amount 
-*Allow User to Select type of Category 
-*Allow user to add the no of persons involved
-*Allow user to add budget
+->Trip Expense Tracking – As a user, I would like to add “Trip Expense Tracking Button”.
+*Add “Category Button”.
+*Allow user to enter the amount. 
+*Allow user to add the person who paid for that expense.
+*Add a button for the conversion of currency from our country to other country.
+*Allow user to add the date of money spent.
+*Allow user to add the Description of money spent.
+*Allow user to select the of expense.
+*Allow user to enter the amount .
+*Allow User to Select type of Category .
+*Allow user to add the no of persons involved.
+*Allow user to add budget.
 *Create a button to split the money to all the people who are part of the expense equally.
 
 ->Personal Expense Tracking – As a user, I would like to add “Personal Tracking Button”
